@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Rafael Almeida
 
 **`Desenvolvedora FullStack`**
-Meu nome é Rafael, tenho 26 anos e sou um estudante de Engenharia de Software pela Estácio. Minha paixão por tecnologia me acompanha desde cedo, e hoje ela me impulsiona a transformar ideias em soluções reais.
+Meu nome é Rafael, tenho 26 anos e sou estudante de Engenharia de Software pela Universidade Estácio. Minha paixão por tecnologia me acompanha desde cedo, e hoje ela me impulsiona a transformar ideias em soluções reais.
 
 
 <
